@@ -1,5 +1,5 @@
 <h1 align="center">Hello world!🥳 ,I'm Mehmet Eray Serter</h1>
-<h3 align="center">Senior Computer Science Student at TOBB ETU</h3>
+<h3 align="center">New Graduate Software Engineer</h3>
 
 <h4 align="center">:question: How to reach me :question:</h4>
 <p align="center">
